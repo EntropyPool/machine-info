@@ -1,5 +1,9 @@
 github.com/EntropyPool/machine-spec v0.0.0-20210112153601-457944c57380 h1:/EHTnK3YxXGK7HYLsUWR4lCXvPxRtDFWjl15rEzlyFQ=
 github.com/EntropyPool/machine-spec v0.0.0-20210112153601-457944c57380/go.mod h1:0xPOdo4rBERyAmgMVotE/MD+JvxyeWk4rZwMl6gucD0=
+github.com/EntropyPool/machine-spec v0.0.0-20210113080133-8636855aaa20 h1:6iZnnJogwEn5Wo3twUK2LbegVK2d83KDgw2nVG1DhaA=
+github.com/EntropyPool/machine-spec v0.0.0-20210113080133-8636855aaa20/go.mod h1:0xPOdo4rBERyAmgMVotE/MD+JvxyeWk4rZwMl6gucD0=
+github.com/EntropyPool/machine-spec v0.0.0-20210113082143-05734424b515 h1:CTzCXrAQ7ajkLG7rWDhuN+8gvPIzEEp7IuDphjHH/7k=
+github.com/EntropyPool/machine-spec v0.0.0-20210113082143-05734424b515/go.mod h1:0xPOdo4rBERyAmgMVotE/MD+JvxyeWk4rZwMl6gucD0=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/dselans/dmidecode v0.0.0-20180814053009-65c3f9d81910 h1:w9T/rS5VP0SPXqYr7BpUeqf6ukp/GEWm6nXhziWzBY4=
 github.com/dselans/dmidecode v0.0.0-20180814053009-65c3f9d81910/go.mod h1:yGxJ4za56u74+F00gmg9RJoyXLzvrOrIat4b/Dgw9Lo=
