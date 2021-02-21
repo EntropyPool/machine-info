@@ -2,7 +2,6 @@ package machinfo
 
 import (
 	"bytes"
-	"errors"
 	"github.com/EntropyPool/machine-spec"
 	"github.com/elastic/go-sysinfo"
 	"net"
@@ -100,13 +99,7 @@ func ReadMemoryInfo() (*MemoryInfo, error) {
 }
 
 func ReadMachineInfo() (*MachineInfo, error) {
-	spec, err := machspec.ReadMachineSpec()
-	if nil != err {
-		return nil, err
-	}
-	if nil == spec {
-		return nil, errors.New("read machine info: cannot read machine spec")
-	}
+	spec := machspec.NewMachineSpec()
 
 	pubIPAddr, err := ReadPublicIPAddr()
 	if nil != err {
